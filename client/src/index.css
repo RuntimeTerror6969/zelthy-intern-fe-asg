@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Optional: set global background and text colors for dark mode */
 body {
   @apply bg-white text-gray-800;
 }

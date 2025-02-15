@@ -1,4 +1,3 @@
-// src/components/TimezoneSelector.jsx
 import React from "react";
 import { updateTimezone } from "../utils/api";
 

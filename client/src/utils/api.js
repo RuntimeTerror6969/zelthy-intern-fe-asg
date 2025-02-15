@@ -1,4 +1,3 @@
-// src/utils/api.js
 import { API_BASE } from "./config";
 
 export const loginUser = async (username) => {
